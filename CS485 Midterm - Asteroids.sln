@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS485 Midterm - Asteroids", "CS485 Midterm - Asteroids.csproj", "{51868713-EBA5-701D-11D9-77F3C49351F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS485 Midterm - Asteroids.Editor", "CS485 Midterm - Asteroids.Editor.csproj", "{2AD88D97-4DB9-3AC0-6B63-4DEEBADD2CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51868713-EBA5-701D-11D9-77F3C49351F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51868713-EBA5-701D-11D9-77F3C49351F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51868713-EBA5-701D-11D9-77F3C49351F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51868713-EBA5-701D-11D9-77F3C49351F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD88D97-4DB9-3AC0-6B63-4DEEBADD2CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD88D97-4DB9-3AC0-6B63-4DEEBADD2CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD88D97-4DB9-3AC0-6B63-4DEEBADD2CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD88D97-4DB9-3AC0-6B63-4DEEBADD2CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
